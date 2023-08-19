@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Notifications-Page-FrontendMentor/static/css/main.edcd9d68.css",
+    "main.js": "/Notifications-Page-FrontendMentor/static/js/main.94ad9549.js",
+    "static/js/787.0b05b966.chunk.js": "/Notifications-Page-FrontendMentor/static/js/787.0b05b966.chunk.js",
+    "static/media/PlusJakartaSans-VariableFont_wght.ttf": "/Notifications-Page-FrontendMentor/static/media/PlusJakartaSans-VariableFont_wght.ae47e4d01757abf8ad63.ttf",
+    "static/media/avatar-rizky-hasanuddin.webp": "/Notifications-Page-FrontendMentor/static/media/avatar-rizky-hasanuddin.2c9e9a5d4982e8f1b614.webp",
+    "static/media/avatar-jacob-thompson.webp": "/Notifications-Page-FrontendMentor/static/media/avatar-jacob-thompson.ef1880754355ebe956bb.webp",
+    "static/media/avatar-nathan-peterson.webp": "/Notifications-Page-FrontendMentor/static/media/avatar-nathan-peterson.03727540c8ed8341d745.webp",
+    "static/media/avatar-anna-kim.webp": "/Notifications-Page-FrontendMentor/static/media/avatar-anna-kim.14242399b99facbf45c7.webp",
+    "static/media/avatar-mark-webber.webp": "/Notifications-Page-FrontendMentor/static/media/avatar-mark-webber.e3e820b976dfaf7f762a.webp",
+    "static/media/image-chess.webp": "/Notifications-Page-FrontendMentor/static/media/image-chess.b06cd5b36869c9a4784e.webp",
+    "static/media/avatar-kimberly-smith.webp": "/Notifications-Page-FrontendMentor/static/media/avatar-kimberly-smith.00520dc2b2f8e585aac5.webp",
+    "static/media/avatar-angela-gray.webp": "/Notifications-Page-FrontendMentor/static/media/avatar-angela-gray.be3397e8fa98e1cac926.webp",
+    "index.html": "/Notifications-Page-FrontendMentor/index.html",
+    "main.edcd9d68.css.map": "/Notifications-Page-FrontendMentor/static/css/main.edcd9d68.css.map",
+    "main.94ad9549.js.map": "/Notifications-Page-FrontendMentor/static/js/main.94ad9549.js.map",
+    "787.0b05b966.chunk.js.map": "/Notifications-Page-FrontendMentor/static/js/787.0b05b966.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edcd9d68.css",
+    "static/js/main.94ad9549.js"
+  ]
+}
